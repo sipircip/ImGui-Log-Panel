@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ImGui Log Panel.vcxproj" Id="33fb0023-d880-452b-ae14-d3ec36e31072" />
+</Solution>
