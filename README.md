@@ -1,4 +1,6 @@
 # ImGui Log Panel (Win32 + D3D11) — Dirty Snapshot + Clipper
+![ImGui Log Panel](imgui-log-panel.png)
+
 
 A lightweight **standalone ImGui log viewer** for Windows (Win32 + DirectX11).
 
